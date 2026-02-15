@@ -1,3 +1,3 @@
-PR link: https://github.com/merimastarlit/python-assignment12/pull/1 
+
 
 Render link: https://python-assignment12-jzh3.onrender.com
