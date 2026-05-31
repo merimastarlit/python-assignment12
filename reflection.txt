@@ -1,0 +1,13 @@
+1) Reflect on the differences between static and interactive visualizations.
+
+Static visualizations are those usually in image format, you can't move around or touch the graph, numbers, it is static, doesn't move at all, the examples are images of chart, pdf format, prints. They have fixed images, no user interaction, simpler to create and good for simple reports or printing. Interactive visualizations on the other hands are user interactive, we can touch and move graphs, it can be layered and complex, good for complex reports and comparisons, discussions. Users can hovers, zoom, filter. It can be built dynamically, better for exploration. Examples are Plotly scatter, Dash dashboards.
+
+2) Write a short paragraph discussing the advantages of using dashboards for real-time data exploration.
+
+it's important to use dashboards for real time data exploration for example like stocks, weather or any other real time information. As a user, we stay up to date and it helps us to make right decisions. Although to build and maintain such dashboards require more work, so we use it when it is necesary. 
+
+
+3) Explain how interactive tools like Plotly and Dash can improve data communication in professional settings.
+
+it can improve by saving time and making better decisions. Imagine we use static instead of interactive visualization, then if any questions from stakeholders or clarification, we need to go back and redo the document and update the information, it is a lot of wotk and wasted time for back and forth. With interactive, it would be isntant, users can click and learn more if they need clarification. It saves time and lets us make better decisions. 
+
